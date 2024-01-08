@@ -1,0 +1,18 @@
+.odd{
+    background-color: hsl(350, 69%, 69%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blueText {
+    color: hsl(208, 92%, 41%);
+    font-size: 32px;
+}
+
+.font24{
+    font-size: 24px;
+}
+
+#lightGreenBold {
+    background-color: hsla(129, 76%, 76%, 0.752);
+    font-weight: bold;
+}

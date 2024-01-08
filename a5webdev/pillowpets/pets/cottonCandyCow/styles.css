@@ -1,0 +1,19 @@
+*{
+    font-family:  comic sans MS, cursive;
+    color:  hsl(330, 63%, 62%)
+}
+
+.body{
+    background-color: hsl(330, 63%, 62%);
+}
+
+.pinkBG{
+    color: hsl(100, 100%, 100%);
+    background-color: hsl(330, 63%, 62%);
+    padding: 1%;
+}
+
+.whiteBG {
+    color: hsl(330, 63%, 62%);
+    background-color: hsl(100, 100%, 100%);
+}

@@ -1,0 +1,28 @@
+*{
+    font-family: cursive;
+    border: 2px solid hsl(0, 100%, 27%);
+}
+
+h1 {
+    font-size: 35px;
+    color: hsl(0, 0%, 0%)
+}
+
+h3 {
+    font-size: 20px;
+    color: hsl(0, 100%, 27%);
+}
+
+li,
+p {
+    color: hsl(354, 61%, 40%);
+}
+
+li {
+    font-size: 15px;
+}
+
+a {
+    font-size: 20px;
+    color: hsl(0, 100%, 27%)
+}

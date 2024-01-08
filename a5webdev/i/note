@@ -1,0 +1,14 @@
+html: hyptertext markup language
+    tags:
+        <open tag>
+            <stuff>
+            <stuff>
+        </close tag>
+    -file for website homepage shoulkd always be "index"
+    text
+        - cmd + "/" cmnt shortcut
+        - <strong>  to bold
+        - <em> to italicize
+
+
+https://www.theodinproject.com/paths/foundations/courses/foundations
